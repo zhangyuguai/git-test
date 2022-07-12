@@ -9,5 +9,6 @@ public class gitTest {
         System.out.println("你好啊，git");
         System.out.println("master test");
         System.out.println("hot-fix Test");
+        System.out.println("该死的https推送，真慢");
     }
 }

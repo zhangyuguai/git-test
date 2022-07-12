@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("git3 真好玩");
         System.out.println("git4 真好玩");
         System.out.println("你好啊，git");
+        System.out.println("hot-fix Test");
     }
 }

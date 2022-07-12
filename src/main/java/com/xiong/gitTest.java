@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("git 真好玩");
         System.out.println("git2 真好玩");
         System.out.println("git3 真好玩");
+        System.out.println("git4 真好玩");
     }
 }
